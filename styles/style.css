@@ -276,5 +276,33 @@ input {
 /* form section ends */
 
 /* footer section started */
-
+.footer-container {
+  background-color: #272727;
+  padding: 100px;
+}
+.footer-title span {
+  color: #e55473;
+}
+.footer-title {
+  color: #fff;
+  font-size: 48px;
+  font-weight: 800;
+  text-align: center;
+  padding-bottom: 24px;
+}
+.footer-desc {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  padding-bottom: 32px;
+}
+.footer-con{
+  margin-top: 100px;
+  
+}
+.footer-main-con a {
+  color: rgba(255, 255, 255, 0.40);
+  text-align: center;
+}
 /* footer section ends */
